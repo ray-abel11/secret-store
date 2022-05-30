@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  secret-store:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-31T00:06:13.492115728+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a276602fc5a5d6fca5fecf7140d0bf02ef59ff96fa32740d6e2f2b7193ba5421
+    name: secret-store
+    type: application
+    urls:
+    - secret-store-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-31T00:06:13.491295842+01:00"
